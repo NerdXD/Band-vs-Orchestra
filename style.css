@@ -1,4 +1,7 @@
+head {
+ background: linear-gradient(red,green,yellow) 
+}
+
 body {
-background: linear-gradient(90deg, blue, purple);
-color: limegreen;
+ background: linear-gradient(red,green,yellow) 
 }
