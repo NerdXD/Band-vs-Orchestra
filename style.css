@@ -8,5 +8,6 @@ a {
 }
 
 img {
-    size(100px, 100px);
+    height: 100px;
+    width: 100px;
 }
