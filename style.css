@@ -1,13 +1,21 @@
 body {
- background: linear-gradient(90deg, blue, purple, magenta);
- color: limegreen;
+    background: linear-gradient(90deg, blue, purple, magenta);
+    color: limegreen;
+    font-size: xx-large;
+    text-align: center;
 }
 
 a {
     color:yellow;
+    font-size: large;
+    text-align: center;
 }
 
 img {
-    height: 100px;
-    width: 100px;
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 50px;
+    right: 50px;
+    top: 50px;
 }
